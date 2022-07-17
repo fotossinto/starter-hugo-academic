@@ -67,6 +67,6 @@ email: 'isabragantini@gmail.com'
 highlight_name: true
 ---
 
-I'm currently a Quality Assurance Scientist at Koppert Biological Systems, Inc. I've obtained my BSc in Agronomic Engineering at the University of São Paulo, Brazil. During that time I was doing research at the GEPGeochemistry, a laboratory focused on Soil and Environmental Science, under the supervision of Prof. Tiago Osório Ferreira. 
+I'm currently a Quality Assurance Scientist at [Koppert Biological Systems, Inc.](https://www.koppertus.com/) I've obtained my BSc in Agronomic Engineering at the University of São Paulo, Brazil. During that time I was doing research at the GEPGeochemistry, a laboratory focused on Soil and Environmental Science, under the supervision of [Prof. Tiago Osório Ferreira](https://scholar.google.com/citations?hl=pt-BR&user=IEMFFVIAAAAJ). 
 
 In 2019, I did an exchange program of 6 months at the University of Western Australia, where I focused mostly on Environmental Assessment and GIS. 
