@@ -50,9 +50,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/isabragantini
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_Isadora.pdf
+  # icon: cv
+  # icon_pack: ai
+  # link: uploads/CV_Isadora.pdf
 
 
 
