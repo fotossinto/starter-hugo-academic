@@ -41,7 +41,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: kaggle
+  - icon: Kaggle
     icon_pack: fas
     link: https://kaggle.com/isabragantini
   - icon: github
