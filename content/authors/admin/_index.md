@@ -20,7 +20,6 @@ organizations:
 interests:
   - Exploratory Data Analysis
   - Carbon Measurement
-  - Regression Models
   - GIS
 
 # Education to show in About widget
